@@ -1,0 +1,141 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0%;
+    background-color:honeydew;
+    
+}
+h1{
+    font size:700px;
+    
+}
+#ruller{
+    border-left:5px maroon solid;
+    padding-left: 2%;
+}
+#orange{
+    color:rgb(209, 12, 150);
+    text-emphasis-style:bold ;
+}
+.mission{
+     text-align: center;
+}
+#year{
+    color:rgb(209, 12, 150);
+}
+.half-width{
+    width:50%;
+    padding-left:5%;
+}
+.half-width img{
+    width:40%;
+}
+.flexible-continer{
+    display:flex;
+    margin-bottom: 50px;
+    background-color: honeydew;
+}
+.link-button{
+   text-decoration: none;
+   background-color: orange;
+    color:white;
+    border-radius: 5px;
+    padding:1%;
+  
+}
+.first{
+width:30%;
+margin-left:5%;
+margin-right: 1%;
+background-color:cyan ;
+padding-left: 2%;
+border-radius: 2%;
+}
+.first img{
+width:30%;
+}
+.second{
+ width:30%;
+ margin-left:2px;
+ margin-right:2px;
+ background-color:wheat;
+ padding-left: 2%;
+ border-radius: 2%;
+}
+.second img{
+width:30%;
+}
+.third{
+width=30%;
+margin-left:1%;
+margin-right:25%;
+background-color:rgba(43, 1, 18, 0.425) ;
+padding-left:2%;
+border-radius: 2%;
+}
+.third img{
+width:30%;
+}
+.codding{
+    width:40%;
+   
+}
+.codding img{
+ width:70%;
+padding-left: 12%;
+padding-top: 2%;
+border-radius: 5%;;
+}
+
+.link-button2{
+    text-decoration: none;
+    background-color: orange;
+     color:white;
+     padding:2%;
+     border-radius:5%;
+     
+}
+.link-button3{
+    text-decoration: none;
+    background-color: orange;
+    color:white;
+   padding:2%;
+    border-radius:1%;
+   
+}
+
+.project{
+ width:50%;
+ padding-left: 5%;;
+}
+.project img{
+    width:40%;
+   
+}
+
+
+.apptittle{
+    width:50%;
+    padding-right: 25%;
+    height:10%;
+
+}
+.apptittle img{
+    width:80%;
+    padding-left:100%;
+}
+.link4{
+    text-decoration: none;
+    background-color: orange;
+    color:white;
+    padding:1%;
+}
+.last{
+    background-color: mediumaquamarine;
+    text-align: center;
+}
+.build{
+    text-align: center;
+}
+.backgroundall{
+    background-color: green;
+}
