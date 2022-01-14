@@ -139,3 +139,17 @@ border-radius: 5%;;
 .backgroundall{
     background-color: green;
 }
+.footer-area{
+    background-color: #000;
+    text-align: center;
+    padding:10px;
+
+}
+.footer-area p{
+    color:#fff;
+    font-size:15px;
+}
+.footer-area span{
+    color:orange;
+    font-weight: 700;
+}
